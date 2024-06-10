@@ -29,27 +29,27 @@ To set up the project environment, follow these steps:
 
 ## Project Structure
 - `data/`: Contains the dataset files.
-- `notebooks/`: Jupyter notebooks with data exploration, data preprocessing, model development and model training.
+- `ames_housing_regression_model.ipynb`: Jupyter notebook with data exploration, data preprocessing, model development and model training.
 - `README.md`: Project documentation.
 
 ## Data Preprocessing
-Data preprocessing steps include handling missing values, encoding categorical variables, scaling features, and splitting the data into training and testing sets.
+Data preprocessing steps include handling missing values, encoding categorical variables, and splitting the data into training and testing sets.
 
 ## Model Development
-The project explores various regression models, including Linear Regression, Decision Trees, and Random Forest. Hyperparameter tuning and feature selection techniques are applied to improve model performance.
+The project explores various regression models, including Linear Regression, Decision Trees, and Random Forest. Feature selection techniques are applied to improve model performance.
 
 ## Evaluation Metrics
 The models are evaluated using Mean Absolute Error (MAE), Mean Squared Error (MSE), Root Mean Squared Error (RMSE), and R-squared (R²) score.
 
 ## Results
-The Random Forest model achieved the best performance with an RMSE of X and an R² score of Y. Visualizations comparing actual vs. predicted values are provided in the results section.
+The Random Forest model achieved the best performance with an RMSE of 0.144598 and an R² score of 0.881069. Visualizations comparing actual vs. predicted values are provided in the results section.
 
 ## Challenges and Improvements
-Challenges included handling missing data and optimizing model performance. Future improvements could involve incorporating more features and exploring advanced regression techniques.
+Challenges included handling missing data and optimizing model performance. Future improvements could involve incorporating more features, implementing feature scaling, hyperparameter tuning and exploring advanced regression techniques.
 
 ## Future Work
 Potential future work includes adding more features, trying different regression algorithms, and improving model performance with advanced techniques.
 
 ## Acknowledgements
-Special thanks to [Resource/Tutorial/Individual] for their guidance and support.
+Special thanks to Professor Dr.Tan for his guidance and support.
 
