@@ -23,7 +23,7 @@ The Ames dataset consists of 2,930 samples with 79 explanatory variables describ
 
 ## Installation and Setup
 To set up the project environment, follow these steps:
-1. Clone the repository: `git clone https://github.com/winsonchow/ames-housing-price-prediction.git`
+1. Clone the repository: `git clone https://github.com/winsonchow/ames_housing_price_prediction.git`
 2. Navigate to the project directory: `cd ames-housing-price-prediction`
 3. Install the required libraries: `pip install -r requirements.txt`
 
