@@ -11,9 +11,7 @@
 8. [Results](#results)
 9. [Challenges and Improvements](#challenges-and-improvements)
 10. [Future Work](#future-work)
-11. [Contributing](#contributing)
-12. [License](#license)
-13. [Acknowledgements](#acknowledgements)
+11. [Acknowledgements](#acknowledgements)
 
 ## Project Overview
 This project aims to build a regression model to predict housing prices using the Ames dataset. The objective is to explore various regression techniques and evaluate their performance.
