@@ -51,5 +51,5 @@ Challenges included handling missing data and optimizing model performance. Futu
 Potential future work includes adding more features, trying different regression algorithms, and improving model performance with advanced techniques.
 
 ## Acknowledgements
-Special thanks to Professor Dr.Tan for his guidance and support.
+Special thanks to Professor Lim for his guidance and support.
 
